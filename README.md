@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gUBBLOR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me @gubblor on Discord
+- 👋 Hi, I’m: @gUBBLOR
+- 👀 I’m interested in:
+- 🌱 I’m currently learning: Python
+- 💞️ I’m looking to collaborate on: anything
+- 📫 How to reach me: @gubblor on Discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: favorite number is 12
 
